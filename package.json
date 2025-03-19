@@ -1,0 +1,25 @@
+{
+  "name": "react-native-number-input-ts",
+  "version": "1.2.1",
+  "description": "A React Native component for integer and float input boxes written in TypeScript.",
+  "main": "dist/NumberInput.js",
+  "types": "dist/NumberInput.d.ts",
+  "keywords": [
+    "react-native",
+    "number-input",
+    
+    "typescript",
+    "integer",
+    "float",
+    "component"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": ">=16.0.0",
+    "react-native": ">=0.60.0"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
